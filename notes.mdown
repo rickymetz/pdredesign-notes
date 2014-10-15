@@ -6,11 +6,11 @@
 
 ###Icons Section
 1. First subsection
- 1.Masa likes the 'Map Pin' icon for the first icon
- 2."Understand your strengths across the district"
-2.Second subsection
-3.Third subsection
-4.Fourth Subsection
+ 1. Masa likes the 'Map Pin' icon for the first icon
+ 2. "Understand your strengths across the district"
+2. Second subsection
+3. Third subsection
+4. Fourth Subsection
 
 
 ##Sign Up
