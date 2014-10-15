@@ -17,9 +17,9 @@
 
 ##Home Page
 1. Main section 
-..1.Add a way to toggle the help section back onto the home page
+ 1. Add a way to toggle the help section back onto the home page
 2. Sidebar
-..1. Something important regarding the profile
+ 1. Something important regarding the profile
 
 ##What is PDredesign
 
