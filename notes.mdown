@@ -1,0 +1,28 @@
+#Notes
+
+##Landing Page
+1. Rose image as background image in first section
+2. Select 1 or 2 images provided by foundation for second section
+
+###Icons Section
+1. First subsection
+..1.Masa likes the 'Map Pin' icon for the first icon
+..2."Understand your strengths across the district"
+2.Second subsection
+3.Third subsection
+4.Fourth Subsection
+
+##Sign Up
+
+##Home Page
+1. Main section 
+..1.Add a way to toggle the help section back onto the home page
+2. Sidebar
+..1. Something important regarding the profile
+
+##What is PDredesign
+
+##How to Use
+
+##Next Steps
+
