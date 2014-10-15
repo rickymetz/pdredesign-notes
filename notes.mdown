@@ -6,17 +6,11 @@
 
 ###Icons Section
 1. First subsection
-..1.Masa likes the 'Map Pin' icon for the first icon
-..2."Understand your strengths across the district"
+ 1.Masa likes the 'Map Pin' icon for the first icon
+ 2."Understand your strengths across the district"
 2.Second subsection
 3.Third subsection
 4.Fourth Subsection
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
 
 
 ##Sign Up
